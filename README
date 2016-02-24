@@ -1,0 +1,3 @@
+This is a repository for miscellaneous research code, dating back to 2015. The "predicting clinical phenotype" folder contains the final python script that I used to produce my workshop paper for ICDM 2015. This folder generally should not contain actively developed code for research projects or anything of that complexity, because those should be in repositories of their own.
+
+- Nathan LaPierre, February 24, 2016
