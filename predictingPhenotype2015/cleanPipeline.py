@@ -112,7 +112,7 @@ def parseCluster(verbose, dir, positive, negative, cluster, input, map, train, t
         if counter != 0:
 
             if value[0].startswith('1'):
-                for j in range(1, len(value)):      # saturate features of positive examples in training set
+                for j in range(1, len(value)):      # feature engineering: modify positive training examples
                     if value[j] != '':
                         parts = value[j].split(":")
                         value[j] = parts[0] + ":" + str(float(parts[1]) * 0.9) + ' '    # apply multiplier to features

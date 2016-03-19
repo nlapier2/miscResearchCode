@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8777883b-20d5-4658-9fa8-0dc79deac44b" name="Default" comment="" />
+    <list default="true" id="8777883b-20d5-4658-9fa8-0dc79deac44b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/predictingPhenotype2015/cleanPipeline.py" afterPath="$PROJECT_DIR$/predictingPhenotype2015/cleanPipeline.py" />
+    </list>
     <ignored path="miscResearchCode.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +29,8 @@
       <file leaf-file-name="cleanPipeline.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/predictingPhenotype2015/cleanPipeline.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5106383" vertical-offset="216" max-vertical-offset="3240">
-              <caret line="32" column="100" selection-start-line="32" selection-start-column="100" selection-end-line="32" selection-end-column="100" />
+            <state vertical-scroll-proportion="0.48510638" vertical-offset="1890" max-vertical-offset="3240">
+              <caret line="124" column="74" selection-start-line="124" selection-start-column="74" selection-end-line="124" selection-end-column="74" />
               <folding>
                 <element signature="e#47#62#0" expanded="true" />
               </folding>
@@ -178,8 +180,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/predictingPhenotype2015/cleanPipeline.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5106383" vertical-offset="216" max-vertical-offset="3240">
-          <caret line="32" column="100" selection-start-line="32" selection-start-column="100" selection-end-line="32" selection-end-column="100" />
+        <state vertical-scroll-proportion="0.48510638" vertical-offset="1890" max-vertical-offset="3240">
+          <caret line="124" column="74" selection-start-line="124" selection-start-column="74" selection-end-line="124" selection-end-column="74" />
           <folding>
             <element signature="e#47#62#0" expanded="true" />
           </folding>
